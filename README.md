@@ -36,6 +36,6 @@ https://www.google.com/
 
 [visite my web](https://www.google.com/)
 
-![en caso de no verse mi imagen que salga esto](miproyecto.png)
-
 ![imagen](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png)
+
+<img src="miproyecto.png" width="200">
